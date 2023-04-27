@@ -6,7 +6,7 @@ const CTA = () => (
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>Have A General Inquiry?</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      If you have a general inquiry and would like to speak to our expert team, you can contact us via email at: admin@milesmedia.in
+      If you have a general inquiry and would like to speak to our expert team, you can contact us via email at: sameer@milesmedia.in
       </p>
     </div>
 
