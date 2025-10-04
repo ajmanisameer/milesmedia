@@ -28,6 +28,13 @@ import mailchimp from './mailchimp.png'
 import hubspot from './hubspot.png'
 import campaignmonitor from './campaignmonitor.png'
 
+// Email designs
+import email1 from './emails/email1.avif'
+import email2 from './emails/email2.avif'
+import email3 from './emails/email3.avif'
+import email4 from './emails/email4.avif'
+import email5 from './emails/email5.avif'
+
 
 export {
   airbnb,
@@ -58,5 +65,10 @@ export {
   klaviyo,
   mailchimp,
   hubspot,
-  campaignmonitor
+  campaignmonitor,
+  email1,
+  email2,
+  email3,
+  email4,
+  email5
 };
